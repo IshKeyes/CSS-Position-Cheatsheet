@@ -1,0 +1,38 @@
+table {
+    border: 2px solid lightseagreen;
+    width: 700px;
+    margin: 0 auto;
+}
+
+tbody {
+    display: table-row-group; 
+    vertical-align: middle;
+    border-color: inherit;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+th {
+    background-color: lightseagreen;
+    color: white;
+}
+
+td {
+    font-style: italic;
+    border: 1px solid lightseagreen;
+    font-family: monospace;
+}
+
+#pname {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-style: normal;
+}
